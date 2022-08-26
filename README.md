@@ -71,3 +71,4 @@ En esta ocasión simplemente quise utilizar las cosas que aprendí hasta el mome
 
 - Github - [Blackpachamame](https://github.com/Blackpachamame)
 - Frontend Mentor - [@Blackpachamame](https://www.frontendmentor.io/profile/Blackpachamame)
+# 3-column-preview-card-component
