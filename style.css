@@ -56,18 +56,11 @@ img {
 }
 
 .cards:first-child {
-  background: var(--Bright-orange);
-  border-radius: 0.4rem 0.4rem 0 0;
-}
-
-.cards:nth-child(2) {
-  background: var(--Dark-cyan);
-}
-
-.cards:nth-child(3) {
   background: var(--Very-dark-cyan);
   border-radius: 0 0 0.4rem 0.4rem;
 }
+
+
 
 .btn {
   text-decoration: none;
@@ -86,16 +79,10 @@ img {
 }
 
 .cards:first-child a {
-  color: var(--Bright-orange);
-}
-
-.cards:nth-child(2) a {
-  color: var(--Dark-cyan);
-}
-
-.cards:nth-child(3) a {
   color: var(--Very-dark-cyan);
 }
+
+
 
 .cards:first-child a:active,
 .cards:first-child a:hover {
